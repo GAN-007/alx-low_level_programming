@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * reset_to_98 - use a pointer to update the value of an integer
  * @n: parameter
